@@ -18,7 +18,7 @@
 
 <h3>📲 Connect with Me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ajij mujawar" target="_blank">
+  <a href="https://www.linkedin.com/in/ajij-mujawar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="https://instagram.com/boomeer_19_96" target="_blank" rel="noopener noreferrer">
