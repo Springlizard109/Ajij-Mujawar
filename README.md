@@ -21,9 +21,9 @@
   <a href="https://linkedin.com/in/ajij mujawar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30" />
   </a>
-  <a href="https://instagram.com/boomeer_19_96" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" height="30" />
-  </a>
+  <a href="https://instagram.com/boomeer_19_96" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" height="30" alt="Instagram"/>
+</a>
   <a href="https://www.leetcode.com/ajijmujawar07" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" height="30" />
   </a>
